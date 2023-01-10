@@ -1,6 +1,6 @@
 # Image Processing and Editing Using Basys3 FPGA (Field Programmable Gate Array)
 
-Using a Basys3 board, image processing operations such as Increasing & Decreasing Brightness, Color Inversion and Converting an Image into Grayscale were performed.
+Using a Basys3 board, Image Processing operations such as Increasing & Decreasing Brightness, Color Inversion and Converting an Image into Grayscale were performed.
 
 First, the image of size 138x138 was fed into a python code, where it was converted from an RGB scale into a bitmap, using the Computer Vision library OpenCV.
 
